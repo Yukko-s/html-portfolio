@@ -1,0 +1,17 @@
+
+
+body {
+    background-color: black;
+}
+
+img {
+  width: 50%;
+  border: 5px solid white;
+  margin: auto;
+  display: block;
+}
+
+.text {
+  text-align: center;
+  color: white;
+}
